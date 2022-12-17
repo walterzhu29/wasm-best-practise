@@ -1,6 +1,6 @@
 ### 例子
-1. `readByteReturnInt` 从JavaScript传递byte数组并且返回int
-2. `readAndModifyInput` 从C语言编译wasm返回int数组给JavaScript
+1. `readByteReturnInt` 从JavaScript传递byte数组给C语言编译的wasm并且返回int
+2. `readAndModifyInput` 从C语言编译的wasm返回int数组给JavaScript
 
 ### 命令
 ```
